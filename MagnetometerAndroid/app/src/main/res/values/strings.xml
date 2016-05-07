@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagnetometerAndroid</string>
+    <string name="magnetometer_header">Lettura attuale del magnetometro</string>
+    <string name="magnetometer_x">Asse x (uT):</string>
+    <string name="magnetometer_y">Asse y (uT):</string>
+    <string name="magnetometer_z">Asse z (uT):</string>
+</resources>
